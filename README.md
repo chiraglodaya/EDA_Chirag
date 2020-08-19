@@ -16,3 +16,9 @@
 #### charges: Individual medical costs billed by health insurance.
 
 ### Objective: Exploratory Data analysis to explore and generate value out of this data
+
+
+# There are 3 files in the repositor
+# EDA_insurance_Chirag.ipynb is the notebook version
+# EDA_insurance_Chirag.html is html format
+# insurance.csv is the csv file of the data
