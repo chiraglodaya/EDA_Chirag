@@ -1,4 +1,6 @@
-# EDA_Chirag
+# EDA on Health Insurance Data
+
+# This project used Hypothesis Testing and Visualization to leverage customer's health information like smoking habits, bmi, age, and gender for checking statistical evidence to make valuable decisions of insurance business like charges for health insurance.
 
 ### Data Description: The data at hand contains medical costs of people characterized by certain attributes.
 
