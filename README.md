@@ -18,7 +18,7 @@
 ### Objective: Exploratory Data analysis to explore and generate value out of this data
 
 
-# There are 3 files in the repositor
+# There are 3 files in the repository
 # EDA_insurance_Chirag.ipynb is the notebook version
 # EDA_insurance_Chirag.html is html format
 # insurance.csv is the csv file of the data
